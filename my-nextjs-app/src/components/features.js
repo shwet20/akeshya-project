@@ -17,7 +17,7 @@ const Features = () => {
             <div className="icon-box">
               <i className="ri-window-line" style={{ color: "#ffbb2c" }}></i>
               <h3>
-                <a href="">Web design</a>
+                <a href="" className="text-decoration-none">Web design</a>
               </h3>
             </div>
           </div>
@@ -25,7 +25,7 @@ const Features = () => {
             <div className="icon-box">
               <i className="ri-code-box-line" style={{ color: "#5578ff" }}></i>
               <h3>
-                <a href="">Development</a>
+                <a href="" className="text-decoration-none">Development</a>
               </h3>
             </div>
           </div>
@@ -36,7 +36,7 @@ const Features = () => {
                 style={{ color: "#e80368" }}
               ></i>
               <h3>
-                <a href="">Branding</a>
+                <a href="" className="text-decoration-none">Branding</a>
               </h3>
             </div>
           </div>
@@ -47,7 +47,7 @@ const Features = () => {
                 style={{ color: "#e361ff" }}
               ></i>
               <h3>
-                <a href="">Media buying</a>
+                <a href="" className="text-decoration-none">Media buying</a>
               </h3>
             </div>
           </div>
@@ -60,7 +60,7 @@ const Features = () => {
                 style={{ color: "#47aeff" }}
               ></i>
               <h3>
-                <a href="">Search engine</a>
+                <a href="" className="text-decoration-none">Search engine</a>
               </h3>
             </div>
           </div>
@@ -68,7 +68,7 @@ const Features = () => {
             <div className="icon-box">
               <i className="ri-todo-line" style={{ color: "#ffa76e" }}></i>
               <h3>
-                <a href="">Brand strategy</a>
+                <a href="" className="text-decoration-none">Brand strategy</a>
               </h3>
             </div>
           </div>
@@ -76,7 +76,7 @@ const Features = () => {
             <div className="icon-box">
               <i className="ri-map-pin-line" style={{ color: "#dbce11" }}></i>
               <h3>
-                <a href="">Local search marketing</a>
+                <a href="" className="text-decoration-none">Local search marketing</a>
               </h3>
             </div>
           </div>
@@ -87,7 +87,7 @@ const Features = () => {
                 style={{ color: "#4233ff" }}
               ></i>
               <h3>
-                <a href="">Lead Tracking & Management </a>
+                <a href="" className="text-decoration-none">Lead Tracking & Management </a>
               </h3>
             </div>
           </div>
@@ -100,7 +100,7 @@ const Features = () => {
                 style={{ color: "#b2904f" }}
               ></i>
               <h3>
-                <a href="">Contact management</a>
+                <a href="" className="text-decoration-none">Contact management</a>
               </h3>
             </div>
           </div>
@@ -108,7 +108,7 @@ const Features = () => {
             <div className="icon-box">
               <i className="ri-disc-line" style={{ color: "#b20969" }}></i>
               <h3>
-                <a href="">Media management</a>
+                <a href="" className="text-decoration-none">Media management</a>
               </h3>
             </div>
           </div>
@@ -119,7 +119,7 @@ const Features = () => {
                 style={{ color: "#ff5828" }}
               ></i>
               <h3>
-                <a href="">Social scheduling</a>
+                <a href="" className="text-decoration-none">Social scheduling</a>
               </h3>
             </div>
           </div>
@@ -130,7 +130,7 @@ const Features = () => {
                 style={{ color: "#29cc61" }}
               ></i>
               <h3>
-                <a href="">Ad retargeting</a>
+                <a href="" className="text-decoration-none">Ad retargeting</a>
               </h3>
             </div>
           </div>

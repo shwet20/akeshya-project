@@ -37,7 +37,7 @@ const Header = () => {
               </a>
             </li>
             <li>
-              <a className="getstarted scrollto" href="#contact">
+              <a className="getstarted scrollto text-decoration-none" href="#contact">
                 Contact us
               </a>
             </li>

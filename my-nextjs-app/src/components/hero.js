@@ -13,7 +13,7 @@ const Hero = () => {
               marketeers
             </h2>
             <div data-aos="fade-up" data-aos-delay="800">
-              <a href="#about" className="btn-get-started scrollto">
+              <a href="#about" className="btn-get-started scrollto text-decoration-none">
                 Get Started
               </a>
             </div>

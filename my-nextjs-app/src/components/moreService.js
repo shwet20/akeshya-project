@@ -22,7 +22,7 @@ const MoreServices = () => {
             >
               <div className="card-body">
                 <h5 className="card-title">
-                  <a href="">1. Planning</a>
+                  <a href="" className="text-decoration-none">1. Planning</a>
                 </h5>
                 <p className="card-text">
                   We help you turn all of your ideas into a digital product that
@@ -44,7 +44,7 @@ const MoreServices = () => {
             >
               <div className="card-body">
                 <h5 className="card-title">
-                  <a href="">2. Design</a>
+                  <a href="" className="text-decoration-none">2. Design</a>
                 </h5>
                 <p className="card-text">
                   We build our websites carefully through a series of workshops,
@@ -66,7 +66,7 @@ const MoreServices = () => {
             >
               <div className="card-body">
                 <h5 className="card-title">
-                  <a href="">3. Development</a>
+                  <a href="" className="text-decoration-none">3. Development</a>
                 </h5>
                 <p className="card-text">
                   We provide extensive front-end and back-end development that
@@ -89,7 +89,7 @@ const MoreServices = () => {
             >
               <div className="card-body">
                 <h5 className="card-title">
-                  <a href="">4. Marketing</a>
+                  <a href="" className="text-decoration-none">4. Marketing</a>
                 </h5>
                 <p className="card-text">
                   We come up with ideas and campaigns to help your business

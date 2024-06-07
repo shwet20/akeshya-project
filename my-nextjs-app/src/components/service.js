@@ -17,7 +17,7 @@ const Services = () => {
                 <i className="bx bxl-dribbble"></i>
               </div>
               <h4 className="title">
-                <a href="">Design</a>
+                <a href="" className="text-decoration-none">Design</a>
               </h4>
               <p className="description">
                 Our web design services can assist you in reclaiming your
@@ -33,7 +33,7 @@ const Services = () => {
                 <i className="bx bx-file"></i>
               </div>
               <h4 className="title">
-                <a href="">Development</a>
+                <a href="" className="text-decoration-none">Development</a>
               </h4>
               <p className="description">
                 Our development team can construct platforms to help your
@@ -49,7 +49,7 @@ const Services = () => {
                 <i className="bx bx-world"></i>
               </div>
               <h4 className="title">
-                <a href="">Marketing</a>
+                <a href="" className="text-decoration-none">Marketing</a>
               </h4>
               <p className="description">
                 A beautiful website is the foundation of effective marketing.
@@ -65,7 +65,7 @@ const Services = () => {
                 <i className="bx bx-tachometer"></i>
               </div>
               <h4 className="title">
-                <a href="">Support</a>
+                <a href="" className="text-decoration-none">Support</a>
               </h4>
               <p className="description">
                 Since the beginning, we at Akeshya have specialised in website

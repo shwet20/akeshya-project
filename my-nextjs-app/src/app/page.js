@@ -57,6 +57,7 @@ const Page = () => {
         <script src="/assets/vendor/swiper/swiper-bundle.min.js" defer></script>
         <script src="/script.js" defer></script>
       </Head>
+      {/* Components  */}
       <Header />
       <Hero />
       <Clients />

@@ -25,7 +25,7 @@ const Counts = () => {
                       data-purecounter-end="3835039"
                       data-purecounter-duration="2"
                       className="purecounter"
-                    ></span>
+                    >3835039</span>
                     <p>
                       <strong>Organic Reach</strong> (Global)
                     </p>
@@ -39,7 +39,7 @@ const Counts = () => {
                       data-purecounter-end="85"
                       data-purecounter-duration="3"
                       className="purecounter"
-                    ></span>
+                    >85</span>
                     <p>
                       <strong>Campaigns</strong>
                     </p>
@@ -53,7 +53,7 @@ const Counts = () => {
                       data-purecounter-end="14081"
                       data-purecounter-duration="3"
                       className="purecounter"
-                    ></span>
+                    >14081</span>
                     <p>
                       <strong>Watch Hours</strong> (Asia){" "}
                     </p>
@@ -67,7 +67,7 @@ const Counts = () => {
                       data-purecounter-end="17"
                       data-purecounter-duration="1"
                       className="purecounter"
-                    ></span>
+                    >17</span>
                     <p>
                       <strong>Excellent CTR %</strong> (Asia)
                     </p>

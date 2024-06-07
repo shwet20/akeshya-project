@@ -43,7 +43,7 @@ const AboutUs = () => {
               SEO, have Web Development ideas, or require a graphic designer who
               can match your goals.
             </p>
-            <a href="#services" className="btn-learn-more">
+            <a href="#services" className="btn-learn-more text-decoration-none">
               Learn More
             </a>
           </div>
